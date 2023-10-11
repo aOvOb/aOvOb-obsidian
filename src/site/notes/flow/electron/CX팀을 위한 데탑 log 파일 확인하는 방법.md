@@ -2,7 +2,12 @@
 {"dg-publish":true,"permalink":"/flow/electron/cx-log/","tags":["gardenEntry"]}
 ---
 
-
+```
+---
+dg-publish: true
+dg-home: true
+---
+```
 
 # Windows
 
