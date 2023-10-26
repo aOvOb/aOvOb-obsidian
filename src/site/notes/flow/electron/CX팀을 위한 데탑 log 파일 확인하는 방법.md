@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/flow/electron/cx-log/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/flow/electron/cx-log/","created":"2023-09-26T10:12:47.719+09:00","updated":"2023-10-26T13:32:38.410+09:00"}
 ---
 
 ```
